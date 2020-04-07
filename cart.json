@@ -245,6 +245,11 @@
 		{
 			"dsc": "Código não Identificado",
 			"amount": null
+		},
+		{
+			"dsc": "Código não Identificado",
+			"data": "7/4/2020 6:52:3",
+			"amount": null
 		}
 	]
 }
