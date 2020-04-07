@@ -219,6 +219,17 @@
 			"qtd": "1150",
 			"data": "7/4/2020 6:42:25",
 			"amount": null
+		},
+		{
+			"dsc": "PUDIM COM LEITE CARAMELO NUTRIMENTAL 520G RENDE 44 PORCOES DE 80ML",
+			"cod": "3301",
+			"rua": "a",
+			"blc": "02",
+			"nvl": "5",
+			"apt": "002",
+			"qtd": "1150",
+			"data": "7/4/2020 6:47:52",
+			"amount": null
 		}
 	]
 }
