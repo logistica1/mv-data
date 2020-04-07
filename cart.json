@@ -40,6 +40,36 @@
 			"apt": "001",
 			"qtd": "1259",
 			"amount": null
+		},
+		{
+			"dsc": "Código não Identificado",
+			"cod": "3302",
+			"rua": "A",
+			"blc": "03",
+			"nvl": "3",
+			"apt": "001",
+			"qtd": "1259",
+			"amount": null
+		},
+		{
+			"dsc": "Código não Identificado",
+			"cod": "3302",
+			"rua": "A",
+			"blc": "03",
+			"nvl": "3",
+			"apt": "001",
+			"qtd": "1259",
+			"amount": null
+		},
+		{
+			"dsc": "Código não Identificado",
+			"cod": "3302",
+			"rua": "A",
+			"blc": "03",
+			"nvl": "3",
+			"apt": "001",
+			"qtd": "1259",
+			"amount": null
 		}
 	]
 }
