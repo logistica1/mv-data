@@ -208,6 +208,17 @@
 			"qtd": "1250",
 			"data": "7/4/2020 6:40:14",
 			"amount": null
+		},
+		{
+			"dsc": "FEIJAO PRETO PE VERMELHO 1KG",
+			"cod": "3562",
+			"rua": "a",
+			"blc": "01",
+			"nvl": "2",
+			"apt": "001",
+			"qtd": "1150",
+			"data": "7/4/2020 6:42:25",
+			"amount": null
 		}
 	]
 }
