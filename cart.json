@@ -10,6 +10,17 @@
 			"qtd": "175",
 			"date": "7/4/2020 5:53:15",
 			"amount": null
+		},
+		{
+			"dsc": "Código não Identificado",
+			"cod": "3301",
+			"rua": "B",
+			"blc": "05",
+			"nvl": "5",
+			"apt": "002",
+			"qtd": "175",
+			"data": "7/4/2020 5:57:14",
+			"amount": null
 		}
 	]
 }
