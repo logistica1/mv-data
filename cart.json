@@ -309,6 +309,16 @@
 			"qtd": "175",
 			"date": "7/4/2020 5:51:15",
 			"amount": null
+		},
+		{
+			"dsc": "Código não Identificado",
+			"cod": "3562",
+			"blc": "05",
+			"nvl": "5",
+			"apt": "002",
+			"qtd": "175",
+			"date": "7/4/2020 5:52:29",
+			"amount": null
 		}
 	]
 }
