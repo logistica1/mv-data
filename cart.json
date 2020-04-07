@@ -160,6 +160,26 @@
 			"apt": "001",
 			"qtd": "1259",
 			"amount": null
+		},
+		{
+			"dsc": "PUDIM COM LEITE CHOCOLATE NUTRIMENTAL 520G RENDE 44 PORCOES DE 80ML",
+			"cod": "3302",
+			"rua": "A",
+			"blc": "05",
+			"nvl": "5",
+			"apt": "002",
+			"qtd": "175",
+			"amount": null
+		},
+		{
+			"dsc": "PUDIM COM LEITE CHOCOLATE NUTRIMENTAL 520G RENDE 44 PORCOES DE 80ML",
+			"cod": "3302",
+			"rua": "A",
+			"blc": "05",
+			"nvl": "5",
+			"apt": "002",
+			"qtd": "175",
+			"amount": null
 		}
 	]
 }
