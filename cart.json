@@ -180,6 +180,16 @@
 			"apt": "002",
 			"qtd": "175",
 			"amount": null
+		},
+		{
+			"dsc": "Código não Identificado",
+			"cod": "3302",
+			"rua": "A",
+			"blc": "05",
+			"nvl": "5",
+			"apt": "002",
+			"qtd": "175",
+			"amount": null
 		}
 	]
 }
